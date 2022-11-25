@@ -1,6 +1,7 @@
 # WinRAR
-ملف التفعيل winrar الرسمي 
-1- نقوم يتنصيب برنامج winrar من موقعم الرسمي 
-2- نقوم بالذهاب الى مسار تنصيب البرنامج c:\ProgramFiles\WinRAR\ 
-3- قم بنقل ملف rarreg.key الى مسار البرنامج 
-4- أستمتع بالتفعيل 
+Step 1: Go to WinRAR install directory by default =>
+c:\ProgramFiles\WinRAR\ 
+
+Step 2: Paste the rarreg.key into WinRAR directory
+
+Step 5: Enjoy
