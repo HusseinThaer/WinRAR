@@ -4,4 +4,4 @@ c:\ProgramFiles\WinRAR\
 
 Step 2: Paste the rarreg.key into WinRAR directory
 
-Step 5: Enjoy
+Step 3: Enjoy
